@@ -1,0 +1,15 @@
+body{
+    background:linear-gradient(lime, cyan);
+}
+#logo_img
+{
+    width: 95px;
+    height: 90px;
+    border-radius: 30px;
+}
+h1{
+    font-family:cursive;
+    font-style:italic;
+    font-weight:bold;
+    color:rgb(91, 26, 255);
+}
